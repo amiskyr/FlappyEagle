@@ -2,7 +2,7 @@
 FlappyEagle is a Flappy Bird Clone made on Unity engine. This project intended to increase familiarity with the Unity Engine and C# language.The game is intended to be played at FHD(1920x1080) resolution. the game is fully compatible with notch screen devices i.e. rendering is done outside safe area to support notch screen devices.
  
 # link to WebGL version of the build: 
-# link to APK file of the build: Builds/Android/FlappyEagle(0.2).apk
+# link to APK file of the build: https://github.com/SKY-ROY/FlappyEagle/raw/master/Builds/Android/FlappyEagle(0.2).apk
 
 # NOTE
 All the files present in this github repository(other than the "Builds" folder) are sufficient to clone the project in your target machine, with all the settings matching the parent machine. 
