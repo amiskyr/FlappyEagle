@@ -9,6 +9,5 @@ The only folder missing here in this repository is the "library" folder which co
 When you load the folder with all contents of this repository("Builds" folder not necessary) as a project in Unity, Unity will generate the "library" folder itself to clone the project with parent machine's settings. 
 
 # screenshots
-
-<img src="Builds/816e5be8-5de9-4af5-a095-12796308e048.jpg">        <img src="Builds/ ">                
-
+<img src="Builds/c78624ab-e0a3-4f17-aec7-56777d890250.jpg"> 
+<img src="Builds/816e5be8-5de9-4af5-a095-12796308e048.jpg">
